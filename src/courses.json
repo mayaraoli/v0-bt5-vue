@@ -1,0 +1,186 @@
+{
+  "pt": {
+    "tsi": {
+      "title": "Tecnologia em Sistemas para Internet",
+      "paragraphs": [
+        "O Curso Superior de Tecnologia em Sistemas para Internet (TSI) do campus Toledo pertence ao eixo tecnológico de informação e comunicação e está previsto no Catálogo Nacional dos Cursos Superiores de Tecnologia (CNCST) do Ministério da Educação (MEC). Visa a formação de recursos humanos para atuarem no desenvolvimento de soluções técnicas relacionadas à Internet, dando forte ênfase à prática em laboratórios para capacitar os alunos no uso eficiente destas tecnologias.",
+        "Assim, o objetivo principal de TSI é a capacitação de recursos humanos para atuação no mercado de trabalho que demanda uso de Tecnologias de Informação e Comunicação (TIC).",
+        "Baseado em uma matriz curricular abrangente, atualizada e alinhada às demandas do mercado, o curso de TSI oferece aos discentes uma formação qualificada sólida para atuação no mercado ou prosseguir com estudos acadêmicos na área."
+      ]
+    },
+    "computacao": {
+      "title": "Engenharia de Computação",
+      "paragraphs": [
+        "O curso de Engenharia de Computação do Campus Apucarana tem por objetivo preparar profissionais versáteis para o desenvolvimento de sistemas computacionais que necessitem de interface hardware/software ou desenvolvimento de softwares em geral."
+      ]
+    },
+    "civil": {
+      "title": "Engenharia Civil",
+      "paragraphs": [
+        "O curso visa formar profissionais para desenvolver projetos, dimensionar e especificar os materiais e sistemas a serem utilizados, bem como executar obras de construção civil."
+      ]
+    },
+    "bioprocessos": {
+      "title": "Engenharia de Bioprocessos e Biotecnologia",
+      "paragraphs": [
+        "O curso visa utilizar os conhecimentos das ciências da vida para a produção de produtos, serviços e processos desenvolvidos por seres vivos, em um campo do saber de natureza multidisciplinar que engloba conhecimentos variados com ênfase na química, biologia, microbiologia e genética molecular."
+      ]
+    },
+    "eletronica": {
+      "title": "Engenharia Eletrônica",
+      "paragraphs": [
+        "O curso de Engenharia Eletrônica da UTFPR - Câmpus Toledo obteve conceito 4 no Conceito Preliminar de Curso (CPC), avaliado pelo INEP."
+      ]
+    },
+    "matematica": {
+      "title": "Licenciatura em Matemática",
+      "paragraphs": [
+        "O curso tem como objetivo formar profissionais de ensino de matemática para a educação básica, com sólida base científica, pedagógica, humana e cultural."
+      ]
+    },
+    "quimicos": {
+      "title": "Tecnologia em Processos Químicos",
+      "paragraphs": [
+        "O curso forma profissionais para atuar no controle de qualidade de processos e produtos químicos, análises químicas, físico-químicas, químico-biológicas, padronização e pesquisa e desenvolvimento."
+      ]
+    }
+  },
+  "en": {
+    "tsi": {
+      "title": "Internet Systems Technology",
+      "paragraphs": [
+        "The Higher Education Technology Course in Internet Systems (TSI) at the Toledo campus belongs to the information and communication technology axis and is listed in the National Catalog of Higher Technology Courses (CNCST) of the Ministry of Education. It aims to train human resources to work in the development of technical solutions related to the Internet, placing strong emphasis on hands-on laboratory practice.",
+        "Thus, the main objective of TSI is to train professionals to work in the job market that demands the use of Information and Communication Technologies (ICT).",
+        "Based on a comprehensive, updated curriculum aligned with market demands, the TSI course offers students solid, high-quality training for entering the job market or pursuing further academic studies."
+      ]
+    },
+    "computacao": {
+      "title": "Computer Engineering",
+      "paragraphs": [
+        "The Computer Engineering course prepares versatile professionals for developing computational systems requiring hardware/software interfaces or general software development."
+      ]
+    },
+    "civil": {
+      "title": "Civil Engineering",
+      "paragraphs": [
+        "The course trains professionals to develop structural projects, size and specify materials and systems, and execute construction works."
+      ]
+    },
+    "bioprocessos": {
+      "title": "Bioprocess and Biotechnology Engineering",
+      "paragraphs": [
+        "The course applies life sciences knowledge to the development of products, services, and processes involving living organisms, within a multidisciplinary field including chemistry, biology, microbiology, and molecular genetics."
+      ]
+    },
+    "eletronica": {
+      "title": "Electronic Engineering",
+      "paragraphs": [
+        "The Electronic Engineering course at UTFPR – Toledo Campus received score 4 in the CPC, evaluated by INEP."
+      ]
+    },
+    "matematica": {
+      "title": "Mathematics Teaching Degree",
+      "paragraphs": [
+        "The course trains mathematics teaching professionals for basic education, emphasizing scientific, pedagogical, human, and cultural formation."
+      ]
+    },
+    "quimicos": {
+      "title": "Chemical Processes Technology",
+      "paragraphs": [
+        "The course prepares professionals to work with quality control of chemical processes and products, chemical and physical-chemical analyses, standardization, research, and development."
+      ]
+    }
+  },
+  "es": {
+    "tsi": {
+      "title": "Tecnología en Sistemas para Internet",
+      "paragraphs": [
+        "El Curso Superior de Tecnología en Sistemas para Internet (TSI) del campus Toledo forma parte del eje tecnológico de información y comunicación y está incluido en el Catálogo Nacional de Cursos Superiores de Tecnología del Ministerio de Educación. El curso capacita profesionales para desarrollar soluciones técnicas relacionadas con Internet, con énfasis en prácticas de laboratorio.",
+        "El objetivo principal del TSI es formar recursos humanos para un mercado laboral que demanda el uso de Tecnologías de la Información y la Comunicación (TIC).",
+        "El programa ofrece una formación sólida basada en un plan curricular amplio, actualizado y alineado con las demandas del mercado."
+      ]
+    },
+    "computacao": {
+      "title": "Ingeniería Informática",
+      "paragraphs": [
+        "El curso prepara profesionales versátiles para desarrollar sistemas computacionales que requieren interfaces hardware/software o desarrollo general de software."
+      ]
+    },
+    "civil": {
+      "title": "Ingeniería Civil",
+      "paragraphs": [
+        "El curso capacita profesionales para diseñar, dimensionar y ejecutar obras de construcción civil."
+      ]
+    },
+    "bioprocessos": {
+      "title": "Ingeniería de Bioprocesos y Biotecnología",
+      "paragraphs": [
+        "El curso utiliza conocimientos de ciencias de la vida para desarrollar productos, servicios y procesos biotecnológicos."
+      ]
+    },
+    "eletronica": {
+      "title": "Ingeniería Electrónica",
+      "paragraphs": [
+        "El curso de Ingeniería Electrónica de la UTFPR obtuvo concepto 4 en el CPC, evaluado por el INEP."
+      ]
+    },
+    "matematica": {
+      "title": "Licenciatura en Matemáticas",
+      "paragraphs": [
+        "El curso forma docentes de matemáticas para la educación básica, com una base científica y pedagógica sólida."
+      ]
+    },
+    "quimicos": {
+      "title": "Tecnología en Procesos Químicos",
+      "paragraphs": [
+        "El curso prepara profesionales para control de calidad de procesos y productos químicos, análisis químicos y desarrollo investigativo."
+      ]
+    }
+  },
+  "fr": {
+    "tsi": {
+      "title": "Technologie des Systèmes Internet",
+      "paragraphs": [
+        "Le cours TSI appartient au domaine des technologies de l'information et de la communication et figure dans le Catalogue National des Cours Supérieurs de Technologie. Il forme des professionnels pour développer des solutions techniques liées à Internet, avec une forte composante pratique en laboratoire.",
+        "L'objectif principal du TSI est de former des professionnels capables de travailler avec les Technologies de l'Information et de la Communication (TIC).",
+        "Le programme propose une formation solide basée sur un curriculum complet, mis à jour et aligné sur les exigences du marché."
+      ]
+    },
+    "computacao": {
+      "title": "Génie Informatique",
+      "paragraphs": [
+        "Le cours prépare des professionnels polyvalents pour développer des systèmes informatiques nécessitant une interface matériel/logiciel ou du développement logiciel général."
+      ]
+    },
+    "civil": {
+      "title": "Génie Civil",
+      "paragraphs": [
+        "Le cours forme des professionnels capables de concevoir, dimensionner et exécuter des travaux de construction civile."
+      ]
+    },
+    "bioprocessos": {
+      "title": "Génie des Bioprocédés et Biotechnologie",
+      "paragraphs": [
+        "Le cours applique les sciences de la vie au développement de produits, services et processus biotechnologiques."
+      ]
+    },
+    "eletronica": {
+      "title": "Génie Électronique",
+      "paragraphs": [
+        "Le cours de Génie Électronique de l'UTFPR – Campus Toledo a obtenu la note 4 au CPC, évalué par l'INEP."
+      ]
+    },
+    "matematica": {
+      "title": "Licence en Mathématiques",
+      "paragraphs": [
+        "Le cours forme des enseignants de mathématiques pour l'éducation fondamentale avec une solide formation scientifique, pédagogique et humaine."
+      ]
+    },
+    "quimicos": {
+      "title": "Technologie des Procédés Chimiques",
+      "paragraphs": [
+        "Le cours prépare des professionnels pour le contrôle qualité des processus chimiques, les analyses chimiques et le développement de procédés."
+      ]
+    }
+  }
+}
